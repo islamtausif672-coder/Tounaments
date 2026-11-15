@@ -1,0 +1,6 @@
+{
+  "name": "BooyahArena — Free Fire Tournament & Blogger Hub",
+  "description": "Mobile-responsive Free Fire tournament platform with coin system, unique account IDs, WhatsApp top-up, real-time match notifications, ad monetization slots, and Blogger.com HTML/XML admin export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

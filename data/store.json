@@ -1,0 +1,324 @@
+{
+  "tournaments": [
+    {
+      "id": "trn_bermuda_squad",
+      "title": "Bermuda Pro Squad Cup",
+      "mode": "Squad",
+      "map": "Bermuda",
+      "entryCoins": 50,
+      "prizePool": 1200,
+      "perKillCoins": 15,
+      "maxSlots": 48,
+      "startTime": "2026-11-15T18:40:09.267Z",
+      "status": "live",
+      "rules": "Mobile players only. No emulators, no teaming, and no grenade spam in final zone. Screen recording required for prize claims.",
+      "roomId": "77441122",
+      "roomPassword": "WIN99",
+      "roomPublishedAt": "2026-11-15T16:41:38.960Z",
+      "participants": [
+        {
+          "accountCode": "FF-530194",
+          "playerName": "ViperSquadBD",
+          "ffUid": "3910482710",
+          "squadName": "Viper Four",
+          "joinedAt": "2026-11-14T16:40:09.267Z"
+        },
+        {
+          "accountCode": "FF-774120",
+          "playerName": "CrimsonEagle",
+          "ffUid": "1940284711",
+          "squadName": "Crimson Ops",
+          "joinedAt": "2026-11-14T16:40:09.267Z"
+        },
+        {
+          "accountCode": "FF-849201",
+          "playerName": "ShadowHunter",
+          "ffUid": "2849104721",
+          "squadName": "Dhaka Titans",
+          "joinedAt": "2026-11-15T16:40:32.766Z"
+        }
+      ],
+      "winnerCode": null,
+      "bannerKey": "bermuda",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "trn_kalahari_solo",
+      "title": "Kalahari Solo Headshot Blitz",
+      "mode": "Solo",
+      "map": "Kalahari",
+      "entryCoins": 30,
+      "prizePool": 600,
+      "perKillCoins": 10,
+      "maxSlots": 48,
+      "startTime": "2026-11-15T20:40:09.267Z",
+      "status": "open",
+      "rules": "Single elimination custom room. Level 40+ Free Fire accounts only. Room ID & Password unlock 15 minutes before start.",
+      "roomId": "",
+      "roomPassword": "",
+      "roomPublishedAt": null,
+      "participants": [
+        {
+          "accountCode": "FF-849201",
+          "playerName": "ShadowHunter",
+          "ffUid": "2849104721",
+          "joinedAt": "2026-11-14T16:40:09.267Z"
+        }
+      ],
+      "winnerCode": null,
+      "bannerKey": "kalahari",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "trn_clash_4v4",
+      "title": "Purgatory Clash Squad 4v4",
+      "mode": "Clash Squad",
+      "map": "Purgatory",
+      "entryCoins": 80,
+      "prizePool": 1600,
+      "perKillCoins": 20,
+      "maxSlots": 16,
+      "startTime": "2026-11-15T22:40:09.267Z",
+      "status": "open",
+      "rules": "Best of 7 rounds, limited ammo ON, character skills ON, gun attributes OFF for fair competitive play.",
+      "roomId": "",
+      "roomPassword": "",
+      "roomPublishedAt": null,
+      "participants": [],
+      "winnerCode": null,
+      "bannerKey": "hero",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "trn_evening_duo",
+      "title": "Nexterra Duo Showdown",
+      "mode": "Duo",
+      "map": "Nexterra",
+      "entryCoins": 40,
+      "prizePool": 800,
+      "perKillCoins": 12,
+      "maxSlots": 24,
+      "startTime": "2026-11-15T16:40:09.267Z",
+      "status": "live",
+      "rules": "Duo custom lobby active now. Check My Matches for published Room ID and Password.",
+      "roomId": "88492017",
+      "roomPassword": "BOOYAH99",
+      "roomPublishedAt": "2026-11-15T16:40:09.267Z",
+      "participants": [
+        {
+          "accountCode": "FF-849201",
+          "playerName": "ShadowHunter",
+          "ffUid": "2849104721",
+          "squadName": "Shadow Duo",
+          "joinedAt": "2026-11-14T16:40:09.267Z"
+        },
+        {
+          "accountCode": "FF-530194",
+          "playerName": "ViperSquadBD",
+          "ffUid": "3910482710",
+          "squadName": "Viper Duo",
+          "joinedAt": "2026-11-14T16:40:09.267Z"
+        }
+      ],
+      "winnerCode": null,
+      "bannerKey": "bermuda",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    }
+  ],
+  "accounts": [
+    {
+      "id": "acc_seed_1",
+      "accountCode": "FF-849201",
+      "playerName": "ShadowHunter",
+      "ffUid": "2849104721",
+      "whatsappPhone": "+8801711223344",
+      "coins": 450,
+      "matchesPlayed": 5,
+      "wins": 1,
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "acc_seed_2",
+      "accountCode": "FF-530194",
+      "playerName": "ViperSquadBD",
+      "ffUid": "3910482710",
+      "whatsappPhone": "+8801819001122",
+      "coins": 120,
+      "matchesPlayed": 2,
+      "wins": 0,
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "acc_seed_3",
+      "accountCode": "FF-774120",
+      "playerName": "CrimsonEagle",
+      "ffUid": "1940284711",
+      "whatsappPhone": "+8801912334455",
+      "coins": 40,
+      "matchesPlayed": 6,
+      "wins": 2,
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    }
+  ],
+  "transactions": [
+    {
+      "id": "tx_5f82e0ab",
+      "accountCode": "FF-849201",
+      "amount": 250,
+      "type": "admin_credit",
+      "note": "WhatsApp +8801540097494 Coin Credit",
+      "actor": "Blogger Admin",
+      "createdAt": "2026-11-15T16:41:53.611Z"
+    },
+    {
+      "id": "tx_a13a28b7",
+      "accountCode": "FF-849201",
+      "amount": -50,
+      "type": "entry_fee",
+      "note": "Joined Bermuda Pro Squad Cup",
+      "actor": "System",
+      "createdAt": "2026-11-15T16:40:32.767Z"
+    },
+    {
+      "id": "tx_1",
+      "accountCode": "FF-849201",
+      "amount": 320,
+      "type": "admin_credit",
+      "note": "WhatsApp Top-up Confirmed (+8801540097494)",
+      "actor": "Blogger Admin",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "tx_2",
+      "accountCode": "FF-849201",
+      "amount": -30,
+      "type": "entry_fee",
+      "note": "Joined Kalahari Solo Headshot Blitz",
+      "actor": "System",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    },
+    {
+      "id": "tx_3",
+      "accountCode": "FF-849201",
+      "amount": -40,
+      "type": "entry_fee",
+      "note": "Joined Nexterra Duo Showdown",
+      "actor": "System",
+      "createdAt": "2026-11-14T16:40:09.267Z"
+    }
+  ],
+  "topupRequests": [
+    {
+      "id": "req_1",
+      "accountCode": "FF-530194",
+      "playerName": "ViperSquadBD",
+      "ffUid": "3910482710",
+      "requestedCoins": 500,
+      "status": "pending",
+      "createdAt": "2026-11-15T16:40:09.267Z"
+    }
+  ],
+  "adSlots": [
+    {
+      "id": "ad_top",
+      "placement": "top_leaderboard",
+      "label": "Header Leaderboard (728x90 / Mobile 320x50)",
+      "network": "Custom Banner",
+      "enabled": true,
+      "htmlCode": "",
+      "sponsorTitle": "Pro Gaming Trigger & Finger Sleeve Gear — 30% Off",
+      "sponsorDescription": "Paste your Google AdSense, Adsterra, or custom HTML script here inside Admin to monetize every page view.",
+      "sponsorCta": "Visit Sponsor",
+      "sponsorUrl": "https://blogger.com",
+      "impressions": 1420,
+      "clicks": 84
+    },
+    {
+      "id": "ad_feed",
+      "placement": "in_feed_native",
+      "label": "In-Feed Tournament Native Ad",
+      "network": "AdSense",
+      "enabled": true,
+      "htmlCode": "",
+      "sponsorTitle": "Instant Diamond & Gear Store — Partner Offer",
+      "sponsorDescription": "Monetize tournament traffic between match cards with responsive AdSense or Adsterra native units.",
+      "sponsorCta": "Explore Offer",
+      "sponsorUrl": "https://blogger.com",
+      "impressions": 980,
+      "clicks": 51
+    },
+    {
+      "id": "ad_side",
+      "placement": "sidebar_card",
+      "label": "Wallet & Blogger Export Rectangle (300x250)",
+      "network": "Adsterra",
+      "enabled": true,
+      "htmlCode": "",
+      "sponsorTitle": "120Hz Esports Cooling Fan for Mobile Squads",
+      "sponsorDescription": "Keep frame drops away during final Bermuda circles. Zero-lag magnetic clip.",
+      "sponsorCta": "Shop Gear",
+      "sponsorUrl": "https://blogger.com",
+      "impressions": 615,
+      "clicks": 33
+    }
+  ],
+  "notifications": [
+    {
+      "id": "notif_090478cf",
+      "targetAccountCode": "FF-849201",
+      "category": "coins",
+      "title": "+250 Coins Credited",
+      "message": "WhatsApp +8801540097494 Coin Credit. New balance: 450 Coins.",
+      "createdAt": "2026-11-15T16:41:53.611Z",
+      "readBy": []
+    },
+    {
+      "id": "notif_09459cc4",
+      "targetAccountCode": "ALL",
+      "category": "room",
+      "title": "Room Credentials Published — Bermuda Pro Squad Cup",
+      "message": "Joined players can now view Room ID (77441122) and Password in My Matches.",
+      "tournamentId": "trn_bermuda_squad",
+      "createdAt": "2026-11-15T16:41:38.960Z",
+      "readBy": []
+    },
+    {
+      "id": "notif_2e9a94f4",
+      "targetAccountCode": "FF-849201",
+      "category": "match",
+      "title": "Slot Confirmed — Bermuda Pro Squad Cup",
+      "message": "Entry fee 50 Coins deducted. You will receive a real-time alert when Room ID & Password are published.",
+      "tournamentId": "trn_bermuda_squad",
+      "createdAt": "2026-11-15T16:40:32.767Z",
+      "readBy": []
+    },
+    {
+      "id": "notif_1",
+      "targetAccountCode": "FF-849201",
+      "category": "room",
+      "title": "Room Credentials Live — Nexterra Duo Showdown",
+      "message": "Room ID 88492017 and Password BOOYAH99 are now unlocked in My Matches.",
+      "tournamentId": "trn_evening_duo",
+      "createdAt": "2026-11-15T16:40:09.267Z",
+      "readBy": []
+    },
+    {
+      "id": "notif_2",
+      "targetAccountCode": "ALL",
+      "category": "match",
+      "title": "Bermuda Pro Squad Cup Registration Open",
+      "message": "Entry 50 Coins · Prize Pool 1,200 Coins. Join before all 48 slots fill.",
+      "tournamentId": "trn_bermuda_squad",
+      "createdAt": "2026-11-14T16:40:09.267Z",
+      "readBy": []
+    }
+  ],
+  "bloggerConfig": {
+    "blogTitle": "BooyahArena — Official Free Fire Tournaments",
+    "blogUrl": "https://booyaharena-ff.blogspot.com",
+    "adminWhatsapp": "+8801540097494",
+    "apiSyncUrl": "",
+    "coinFeedLabel": "coin-ledger",
+    "customNotice": "Coin top-ups are verified exclusively by Admin via WhatsApp +8801540097494 using your Unique Account ID."
+  }
+}
